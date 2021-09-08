@@ -1,11 +1,25 @@
-
-Matt Tran	Problem:	App found [name]/None	Likes	Don't likes	Improvements	Age [20]	Gender [Male]		Education/occupation [Computer Science student]		Comments [commuter]
-
-Philip Yeh	Problem:	App found [name]/None	Likes	Don't likes	Improvements	Age [20]	Gender [Male]		Education/occupation Computer Science student]		Comments [dorm]
-
-Jeremy Meuse	Problem:	App found [name]/None	Likes	Don't likes	Improvements	Age [20]	Gender [Male]		Education/occupation [Graphics Design student]		Comments [dorm]
-		Falling asleep more easily
-Louis Nguyen	Problem:	App found [name]/None	Likes	Don't likes	Improvements	Age [20]	Gender [Male]		Education/occupation [Mechanical Engineer student]	Comments [commuter]
-
-Sue Petitti	Problem:	App found [name]/None	Likes	Don't likes	Improvements	Age [58]	Gender [female]		Education/occupation [N/A]				
-
++-----------------+---------------------------+-----------------------+------------------------+----------------------------+---------------------------+------+---------+-----------------------+------------+
+|      Name:      |          Problem:         | App found[name]/None: |         Likes:         |        Don't likes:        |       Improvements:       | Age: | Gender: | Education/occupation: | Comments:  |
++-----------------+---------------------------+-----------------------+------------------------+----------------------------+---------------------------+------+---------+-----------------------+------------+
+|    Matt Tran    |   Tracking sleep habits   |         Pillow        | Auto tracks sleep and  | Show how you can improve   |        Make it free       |  20  |   Male  |    Computer Science   | IOS Device |
+|                 |                           |                       |  quality, convenient   |     your sleep habits      |                           |      |         |                       |            |
+|                 |                           |                       |                        |                            |                           |      |         |                       |            |
+|    Philip Yeh   |   Track how much spent    |      Gamble Diary     |          N/A           |         Ugly UI,           |        Free trial,        |  20  |   Male  |    Computer Science   | IOS Device |
+|                 |        on gambling        |                       |                        |    costs money so did      |        prettier UI        |      |         |                       |            |
+|                 |                           |                       |                        |    not want to purchase    |                           |      |         |                       |            |
+|                 |                           |                       |                        |                            |                           |      |         |                       |            |
+|   Jeremy Meuse  |    Falling asleep more    |       Headspace       | shows how to improve   |  Limited content for free  |    Connect with friends   |  20  |   Male  |     Graphic Design    | IOS Device |
+|                 |           easily          |                       | yourself, free trial   |                            |                           |      |         |                       |            |
+|                 |                           |                       |         option         |                            |                           |      |         |                       |            |
+|                 |                           |                       |                        |                            |                           |      |         |                       |            |
+|   Louis Nguyen  |   Finding parking more    |          N/A          |          N/A           | Most apps are targeted to  | Create an app that shows  |  20  |   Male  |  Mechanical Engineer  | IOS Device |
+|                 |           easily          |                       |                        |    reserve garage/lots     |    available free spots   |      |         |                       |            |
+|                 |                           |                       |                        |      that cost money       |                           |      |         |                       |            |
+|                 |                           |                       |                        |                            |                           |      |         |                       |            |
+|   Sue Petitti   | scan and store important  |        Dropbox        |       Convenient       | Not tech-savy so somewhat  |  Make it more simplified  |  63  |  Female |          N/A          | IOS Device |
+|                 |       docs virtually      |                       |                        |        hard to use         |                           |      |         |                       |            |
+|                 |                           |                       |                        |                            |                           |      |         |                       |            |
+| Andrew Thompson |  Real time caller ID info |       Truecaller      |  Allows you to block   |       slow interface       |          Fix bugs         |  21  |   Male  |        Business       | IOS Device |
+|                 |                           |                       |     numbers on app     |                            |                           |      |         |                       |            |
+|                 |                           |                       |                        |                            |                           |      |         |                       |            |
++-----------------+---------------------------+-----------------------+------------------------+----------------------------+---------------------------+------+---------+-----------------------+------------+
