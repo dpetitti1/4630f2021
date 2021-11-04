@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fadeScrollbars="false"
+    android:fillViewport="true"
+    android:scrollbarStyle="outsideOverlay"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    tools:context="com.example.a3_secondphaseofapp.ui.home.HomeFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/photo"
+                android:layout_width="match_parent"
+                android:layout_height="800dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="-38dp"
+                android:layout_marginBottom="4dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/donna_selfie" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="25dp"
+            android:background="#bbb4b0">
+
+
+            <TextView
+                android:id="@+id/aboutMe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/days_one"
+                android:text="Facts about me"
+                android:textColor="#372926"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/label1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/aboutMe"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/days_one"
+                android:text="My place of birth"
+                android:textColor="#372926"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/place1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/label1"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/days_one"
+                android:text="Seoul, South Korea"
+                android:textColor="#372926"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/label2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/place1"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/days_one"
+                android:text="Where I live now"
+                android:textColor="#372926"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/place2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/label2"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/days_one"
+                android:text="Maynard, MA"
+                android:textColor="#372926"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/label3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/place2"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/days_one"
+                android:text="Where I'd like to live"
+                android:textColor="#372926"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/place3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/label3"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/days_one"
+                android:text="San Francisco, CA"
+                android:textColor="#372926"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/label4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/place3"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/days_one"
+                android:text="My favorite colors"
+                android:textColor="#372926"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/place4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/label4"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/days_one"
+                android:text="Pink and Yellow"
+                android:textColor="#372926"
+                android:textSize="12sp" />
+
+
+            <TextView
+                android:id="@+id/bird"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/place4"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/days_one"
+                android:text="My pet, Ponyo!"
+                android:textColor="#372926"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/birdImg"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:layout_below="@id/bird"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="-38dp"
+                android:layout_marginBottom="4dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ponyo" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>
