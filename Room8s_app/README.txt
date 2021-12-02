@@ -16,3 +16,9 @@ I created a new activity that contains a list view. I plan to make this more org
 Weekly project progress report 3
 I reformatted my activity 2 because I did not like how it was formatted. None of the buttons are working yet but that will be my next goal.
 I'm most proud of my calender showing the current date -- it's not exactly how i wanted so maybe I will look futher into it later one.
+
+Weekly project progress report 4
+MIA
+
+Weekly project progress report 5
+I added in a chat which was quite difficult but I found it to be something useful within my app
