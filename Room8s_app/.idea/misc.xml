@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/drawable/add_item.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/drawable/copy.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/drawable/remove.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_chat.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_chores_list.xml" value="0.24375" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_events_list.xml" value="0.46979166666666666" />
         <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_main2.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_second.xml" value="0.33" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/activity_shopping_list.xml" value="0.24375" />
+        <entry key="..\:/Users/dpeti/AndroidStudioProjects/Room8s_app/app/src/main/res/layout/list_row.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
